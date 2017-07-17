@@ -1,1 +1,1 @@
-added @angular/flex-layout dependency on 7/26/2017
+Fixing style.scss on 8/9/2017
