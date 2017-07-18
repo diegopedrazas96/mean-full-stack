@@ -1,1 +1,1 @@
-fix: merge with master on 7/19/2017
+Update README.md on 7/31/2017
