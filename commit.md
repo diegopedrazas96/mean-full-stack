@@ -1,1 +1,1 @@
-added @angular/flex-layout dependency on 7/27/2017
+Fixing npm installation on 8/3/2017
