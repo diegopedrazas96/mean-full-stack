@@ -1,1 +1,1 @@
-Fixing npm installation on 8/1/2017
+fix: merge with master on 7/17/2017
