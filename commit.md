@@ -1,1 +1,1 @@
-added @angular/flex-layout dependency on 7/26/2017
+Update CNAME on 8/17/2017
