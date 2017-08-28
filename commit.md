@@ -1,1 +1,1 @@
-CSS scroll bar for icons and system-sidebar on 10/13/2017
+fix auth pages background on 9/26/2017
